@@ -1,0 +1,42 @@
+{
+  "name": "Midnight Dusk",
+  "description": "Dark purple theme with a pink accent. Converted from the Aliucord theme by Riyu.",
+  "authors": [
+    {
+      "name": "Riyu",
+      "id": ""
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#16151D", "#16151D", "#16151D"],
+    "BACKGROUND_SECONDARY": ["#201F27", "#201F27", "#201F27"],
+    "BACKGROUND_SECONDARY_ALT": ["#201F27", "#201F27", "#201F27"],
+    "BACKGROUND_TERTIARY": ["#16151D", "#16151D", "#16151D"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#16151D", "#16151D", "#16151D"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#201F27", "#201F27", "#201F27"],
+    "BG_BASE_PRIMARY": ["#16151D", "#16151D", "#16151D"],
+    "BG_BASE_SECONDARY": ["#201F27", "#201F27", "#201F27"],
+    "CHAT_BACKGROUND": ["#16151D", "#16151D", "#16151D"],
+    "CARD_PRIMARY_BG": ["#201F27", "#201F27", "#201F27"],
+    "TEXT_LINK": ["#F02475", "#F02475", "#F02475"],
+    "TEXT_NORMAL": ["#FEE9F2", "#FEE9F2", "#FEE9F2"],
+    "HEADER_PRIMARY": ["#FEE9F2", "#FEE9F2", "#FEE9F2"],
+    "HEADER_SECONDARY": ["#FDE3EE", "#FDE3EE", "#FDE3EE"],
+    "INTERACTIVE_NORMAL": ["#F02475", "#F02475", "#F02475"],
+    "INTERACTIVE_ACTIVE": ["#F02475", "#F02475", "#F02475"],
+    "CHANNEL_ICON": ["#F02475", "#F02475", "#F02475"],
+    "BACKGROUND_ACCENT": ["#F02475", "#F02475", "#F02475"],
+    "MENTION_BACKGROUND": ["#F0247534", "#F0247534", "#F0247534"]
+  },
+  "rawColors": {
+    "PRIMARY_700": "#16151D",
+    "PRIMARY_630": "#201F27",
+    "PRIMARY_300": "#F02475",
+    "PRIMARY_360": "#F02475",
+    "BRAND_500": "#F02475",
+    "BRAND_560": "#F02475",
+    "BRAND_530": "#FBBDD6",
+    "WHITE_500": "#FEE9F2"
+  }
+}
